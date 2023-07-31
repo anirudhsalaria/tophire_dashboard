@@ -89,6 +89,9 @@ module.exports = {
     },
 
     extend: {
+      backgroundImage: {
+        'hero-pattern': "url('https://d383au3bye3rv1.cloudfront.net/static/images/optimized/sky.jpg')",
+      },
       colors:{
         "dark-purple" : "#081A51",
         "light-white": "rgba(255,255,255,0.17)",

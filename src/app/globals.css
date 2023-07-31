@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.heroimage{
+    background-image: url("https://d383au3bye3rv1.cloudfront.net/static/images/optimized/sky.jpg");
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    height: 1100px;
+    width: 100%;
+}
