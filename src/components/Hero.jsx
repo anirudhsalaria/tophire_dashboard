@@ -2,8 +2,8 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div className='w-full md:heroimage sm:heroimagesmall '>
-            <div className='container  p-12 md:pt-[115px] sm:py-10'>
+        <div className=' w-full heroimage '>
+            <div className='container   p-12 md:pt-[115px] md:pb-[90px] sm:py-10'>
                 <div className=' text-center'>
                     <div className=' font-semibold md:text-[45px] sm:text-5xl text-jacarta-700'>Find your next top tech job in 1 week.</div>
                     <div className=' md:text-[22px] py-6 md:px-40 sm:px-0'><span className=' bg-yellow font-semibold'>Are you a top 2%</span> Software Engineer, Product Manager or Data Scientist?
