@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className='container md:flex sm:inline-block w-full border p-6 px-20 '>
+    <div className='container md:flex sm:inline-block w-full  p-6 px-20 '>
         <div>
             <img src="https://d383au3bye3rv1.cloudfront.net/static/images/logo/main.png" alt="Logo" className='h-[28px]'/>
         </div>
