@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div className='w-full  heroimage'>
+        <div className='w-full md:heroimage sm:heroimagesmall '>
             <div className='container  p-12 md:pt-[115px] sm:py-10'>
                 <div className=' text-center'>
                     <div className=' font-semibold md:text-[45px] sm:text-5xl text-jacarta-700'>Find your next top tech job in 1 week.</div>

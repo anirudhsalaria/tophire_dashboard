@@ -13,6 +13,17 @@
     width: 100%;
 }
 
+.heroimagesmall{
+    background-image: url("https://d383au3bye3rv1.cloudfront.net/static/images/optimized/sky.jpg");
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    height: 520px;
+    width: 100%;
+}
+
 
 .heroIcon{
     border: 2px solid;
@@ -24,4 +35,20 @@
     border: 2px solid;
     color: rgb(105, 213, 243);
     border-radius: 9999px;
+}
+
+.companies{
+    background-image: url("https://d383au3bye3rv1.cloudfront.net/static/dist/Company%20Long%20List-63Z2IARV.png");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.companies_small{
+    background-image: url("https://d383au3bye3rv1.cloudfront.net/static/dist/logo-map-mobile-ACNY67Z7.png");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
