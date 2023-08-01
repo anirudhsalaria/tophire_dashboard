@@ -2,14 +2,14 @@ import React from 'react'
 
 const Works = () => {
     return (
-        <div className='container border my-20'>
+        <div className='container  my-20'>
             <div className='text-center text-xl font-semibold text-jacarta-700'>HOW IT WORKS</div>
 
 
-            <div className='md:flex sm:inline-block border md:p-6 md:py-16 sm:p-0 '>
-                <div className='border md:w-1/2 sm:w-full px-8'>
+            <div className='md:flex sm:inline-block  md:p-6 md:py-16 sm:p-0 '>
+                <div className=' md:w-1/2 sm:w-full px-8'>
                     <div className='stylishLine'></div>
-                    <div className='border mt-8 md:w-[95%] sm:w-full'>
+                    <div className=' mt-8 md:w-[95%] sm:w-full'>
                         <div className='font-semibold text-2xl text-lightblue'>
                             Create your free candidate profile
                         </div>
@@ -23,21 +23,21 @@ const Works = () => {
                     </div>
                 </div>
 
-                <div className='md:w-1/2 sm:w-full border'>
+                <div className='md:w-1/2 sm:w-full '>
                     <img src="https://d383au3bye3rv1.cloudfront.net/static/images/optimized/C%20-%20Create%20Profile.png" alt="img" />
                 </div>
             </div>
 
             {/* --------------------------------------------------------------------------------------------------------------------- */}
 
-            <div className='md:flex sm:inline-block border md:p-6 md:py-16 sm:p-0 '>
-                <div className='md:w-1/2 sm:w-full border'>
+            <div className='md:flex sm:inline-block  md:p-6 md:py-16 sm:p-0 '>
+                <div className='md:w-1/2 sm:w-full '>
                     <img src="https://d383au3bye3rv1.cloudfront.net/static/images/optimized/C%20-%20Companies%20Compete.png" alt="img" />
                 </div>
 
-                <div className='border md:w-1/2 sm:w-full px-8'>
+                <div className=' md:w-1/2 sm:w-full px-8'>
                     <div className='stylishLine'></div>
-                    <div className='border mt-8 md:w-[95%] sm:w-full'>
+                    <div className=' mt-8 md:w-[95%] sm:w-full'>
                         <div className='font-semibold text-2xl text-lightblue'>
                             Sit back while companies compete to hire you
                         </div>
@@ -53,10 +53,10 @@ const Works = () => {
             </div>
 
             {/* -------------------------------------------------------------------------------------------------------------------- */}
-            <div className='md:flex sm:inline-block border md:p-6 md:py-16 sm:p-0 '>
-                <div className='border md:w-1/2 sm:w-full px-8'>
+            <div className='md:flex sm:inline-block  md:p-6 md:py-16 sm:p-0 '>
+                <div className=' md:w-1/2 sm:w-full px-8'>
                     <div className='stylishLine'></div>
-                    <div className='border mt-8 md:w-[95%] sm:w-full'>
+                    <div className=' mt-8 md:w-[95%] sm:w-full'>
                         <div className='font-semibold text-2xl text-lightblue'>
                             Salary & Role transparency
                         </div>
@@ -70,20 +70,20 @@ const Works = () => {
                     </div>
                 </div>
 
-                <div className='md:w-1/2 sm:w-full border'>
+                <div className='md:w-1/2 sm:w-full '>
                     <img src="https://d383au3bye3rv1.cloudfront.net/static/images/optimized/C%20-%20Transparency.png" alt="img" />
                 </div>
             </div>
 
             {/* -------------------------------------------------------------------------------------------------------------------- */}
-            <div className='md:flex sm:inline-block border md:p-6 md:py-16 sm:p-0 '>
-                <div className='md:w-1/2 sm:w-full border'>
+            <div className='md:flex sm:inline-block  md:p-6 md:py-16 sm:p-0 '>
+                <div className='md:w-1/2 sm:w-full '>
                     <img src="https://d383au3bye3rv1.cloudfront.net/static/images/optimized/C%20-%20Dedicated%20Talent%20Advocate.png" alt="img" />
                 </div>
 
-                <div className='border md:w-1/2 sm:w-full px-8'>
+                <div className=' md:w-1/2 sm:w-full px-8'>
                     <div className='stylishLine'></div>
-                    <div className='border mt-8 md:w-[95%] sm:w-full'>
+                    <div className=' mt-8 md:w-[95%] sm:w-full'>
                         <div className='font-semibold text-2xl text-lightblue'>
                             A dedicated talent advocate
                         </div>
@@ -99,10 +99,10 @@ const Works = () => {
             </div>
 
             {/* -------------------------------------------------------------------------------------------------------------------- */}
-            <div className='md:flex sm:inline-block border md:p-6 md:py-16 sm:p-0 '>
-                <div className='border md:w-1/2 sm:w-full px-8'>
+            <div className='md:flex sm:inline-block  md:p-6 md:py-16 sm:p-0 '>
+                <div className=' md:w-1/2 sm:w-full px-8'>
                     <div className='stylishLine'></div>
-                    <div className='border mt-8 md:w-[95%] sm:w-full'>
+                    <div className=' mt-8 md:w-[95%] sm:w-full'>
                         <div className='font-semibold text-2xl text-lightblue'>
                         Current and past employers can’t see your profile
                         </div>
@@ -116,7 +116,7 @@ const Works = () => {
                     </div>
                 </div>
 
-                <div className='md:w-1/2 sm:w-full border'>
+                <div className='md:w-1/2 sm:w-full '>
                     <img src="https://d383au3bye3rv1.cloudfront.net/static/images/optimized/C%20-%20Privacy.png" alt="img" />
                 </div>
             </div>
