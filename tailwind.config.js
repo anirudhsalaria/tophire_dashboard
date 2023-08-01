@@ -98,7 +98,8 @@ module.exports = {
         "neutral-900": "#171717",
         "gray-900": "#111827",
         "neutral-800": "#262626",
-        "neutral-100": "#F5F5F5"
+        "neutral-100": "#F5F5F5",
+        "yellow": "#FFFF00"
       },
 
       borderRadius: {
