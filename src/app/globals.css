@@ -52,3 +52,12 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+.stylishLine {
+    width: 75px;
+    height: 5px;
+    margin-right: auto;
+    margin-bottom: -10px;
+    background: linear-gradient(to right,#39a7f4 10%,#39a7f4 90%);
+    border-radius: 4px;
+}
