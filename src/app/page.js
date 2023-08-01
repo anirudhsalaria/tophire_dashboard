@@ -1,5 +1,5 @@
 import Header from '@/components/Header'
-import { Companies, Hero, Works } from '@/components/component'
+import { Companies, Hero, Techies, Works } from '@/components/component'
 import Image from 'next/image'
 
 export default function Home() {
@@ -9,6 +9,7 @@ export default function Home() {
       <Hero/>
       <Companies/>
       <Works/>
+      <Techies/>
     </div>
   )
 }
