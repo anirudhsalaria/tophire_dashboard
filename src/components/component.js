@@ -4,6 +4,7 @@ import Companies from "./Companies";
 import Works from "./Works";
 import Techies from "./Techies";
 import Built from "./Built";
+import Footer from "./Footer";
 
 export{
     Header,
@@ -11,5 +12,6 @@ export{
     Companies,
     Works,
     Techies,
-    Built
+    Built,
+    Footer
 };

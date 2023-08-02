@@ -73,3 +73,8 @@
     
     background-image: url("../components/Techiesbg.png");
 }
+
+.myFooter {
+    background: linear-gradient(30deg,#091e34 0%,#091e34 100%);
+    color: #fff;
+}
