@@ -9,7 +9,7 @@ const Hero = () => {
                     <div className=' md:text-[22px] py-6 md:px-40 sm:px-0'><span className=' bg-yellow font-semibold'>Are you a top 2%</span> Software Engineer, Product Manager or Data Scientist?
                         Let leading Indian technology <span className='bg-yellow font-semibold'>companies compete to hire you.</span></div>
                     <div className=' py-6'>
-                        <button className='rounded-lg font-semibold py-3 px-8 bg-blue text-white'>APPLY TO JOIN</button>
+                        <button className='rounded-lg font-semibold py-3 px-8 bg-blue text-white hover:bg-white hover:text-blue hover:border border-blue'>APPLY TO JOIN</button>
                         <div className=' text-sm mt-2 font-light'>100% free. It takes only 5 minutes
                         </div>
                     </div>
